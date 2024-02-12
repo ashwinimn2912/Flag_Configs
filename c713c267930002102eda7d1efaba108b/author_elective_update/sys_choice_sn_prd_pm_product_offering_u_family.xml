@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_family" table="sn_prd_pm_product_offering" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_family</element>
+            <name>sn_prd_pm_product_offering</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:20:08</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_family</sys_name>
+            <sys_package display_value="Flag Configs - GCX" source="c713c267930002102eda7d1efaba108b">c713c267930002102eda7d1efaba108b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flag Configs - GCX">c713c267930002102eda7d1efaba108b</sys_scope>
+            <sys_update_name>sys_choice_sn_prd_pm_product_offering_u_family</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:20:08</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CLOUD X</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:20:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ea816f9935402102eda7d1efaba10f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:20:08</sys_updated_on>
+            <value>CLOUD X</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ethernet</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:20:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec89ab9935402102eda7d1efaba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:20:29</sys_updated_on>
+            <value>Ethernet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hosting</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:20:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fd8deb9935402102eda7d1efaba102b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:20:47</sys_updated_on>
+            <value>Hosting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP Services</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:21:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89f852f9935402102eda7d1efaba106a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:21:11</sys_updated_on>
+            <value>IP Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IP Transit</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:21:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff095af9935402102eda7d1efaba10e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:21:39</sys_updated_on>
+            <value>IP Transit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Managed Solutions</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:22:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc29d6f9935402102eda7d1efaba10f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:22:08</sys_updated_on>
+            <value>Managed Solutions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Private Line</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:22:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>573952f9935402102eda7d1efaba10b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:22:26</sys_updated_on>
+            <value>Private Line</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transmission</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:22:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c599ef9935402102eda7d1efaba108d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:22:50</sys_updated_on>
+            <value>Transmission</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Infrastructure Services</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:23:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75695ef9935402102eda7d1efaba1056</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:23:17</sys_updated_on>
+            <value>Infrastructure Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lan Services</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:23:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe895ef9935402102eda7d1efaba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:23:48</sys_updated_on>
+            <value>Lan Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deactivate</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:24:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80b95af9935402102eda7d1efaba102d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:24:24</sys_updated_on>
+            <value>Deactivate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Managed UC</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:26:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>721a163d935402102eda7d1efaba10cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:26:24</sys_updated_on>
+            <value>Managed UC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resale(no GCX service)</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:26:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>823a9ef9935402102eda7d1efaba107c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:26:43</sys_updated_on>
+            <value>Resale(no GCX service)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Services</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea4ade3d935402102eda7d1efaba1041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:27:02</sys_updated_on>
+            <value>Security Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_family</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transport Products</label>
+            <language>en</language>
+            <name>sn_prd_pm_product_offering</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:30:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa1b9e3d935402102eda7d1efaba10bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:30:37</sys_updated_on>
+            <value>Transport Products</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

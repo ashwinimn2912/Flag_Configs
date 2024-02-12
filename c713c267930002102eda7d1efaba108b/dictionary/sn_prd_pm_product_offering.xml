@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="894ea962938002102eda7d1efaba105e" label="Product Offering" max_length="40" name="sn_prd_pm_product_offering" type="collection">
+        <element choice="1" label="Family" max_length="40" name="u_family" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CLOUD X" sequence="0" value="CLOUD X"/>
+                <element inactive_on_update="false" label="Ethernet" sequence="1" value="Ethernet"/>
+                <element inactive_on_update="false" label="Hosting" sequence="2" value="Hosting"/>
+                <element inactive_on_update="false" label="IP Services" sequence="3" value="IP Services"/>
+                <element inactive_on_update="false" label="IP Transit" sequence="4" value="IP Transit"/>
+                <element inactive_on_update="false" label="Managed Solutions" sequence="5" value="Managed Solutions"/>
+                <element inactive_on_update="false" label="Private Line" sequence="6" value="Private Line"/>
+                <element inactive_on_update="false" label="Transmission" sequence="7" value="Transmission"/>
+                <element inactive_on_update="false" label="Infrastructure Services" sequence="8" value="Infrastructure Services"/>
+                <element inactive_on_update="false" label="Lan Services" sequence="9" value="Lan Services"/>
+                <element inactive_on_update="false" label="Deactivate" sequence="10" value="Deactivate"/>
+                <element inactive_on_update="false" label="Managed UC" sequence="11" value="Managed UC"/>
+                <element inactive_on_update="false" label="Resale(no GCX service)" sequence="12" value="Resale(no GCX service)"/>
+                <element inactive_on_update="false" label="Security Services" sequence="13" value="Security Services"/>
+                <element inactive_on_update="false" label="Transport Products" sequence="14" value="Transport Products"/>
+            </choice>
+        </element>
+    </element>
+</database>
